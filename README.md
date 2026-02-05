@@ -1,5 +1,2 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
-
-DO NOT LEAVE IT LIKE THIS!!!
-
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+# Week2 assignment
+Based on Week1's game, giving several levels and numbers to the game
